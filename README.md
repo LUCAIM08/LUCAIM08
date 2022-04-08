@@ -2,6 +2,8 @@
   
 ***
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/554389950083235840)](https://discord.com/users/554389950083235840)
+
 - 🔭 I’m currently working on **Thinker Bot**
   
 
