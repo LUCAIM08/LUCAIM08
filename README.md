@@ -6,7 +6,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/554389950083235840)](https://discord.com/users/554389950083235840)
 
-- 🔭 I’m currently working on **Thinker Bot**
+- 🔭 I’m currently working on **Thinker Bot** and on **Ale Master🅱lan Bot**
   
 
 - 🌱 I’m currently coding in **Javascript**.
