@@ -1,8 +1,8 @@
-# <div align="center">Hi,I'm Luca, mainly a Discord Bot Developer!</div>  
+# <div align="center">Hi,I'm Luca, a Discord Bot Developer!</div>  
   
 ***
 
-### 🌊 On holiday from 16/07/2022 till 21/07/2022 🌊
+### 🌊 On holiday from 16/07/2022 until 21/07/2022 🌊
 
 ### My Discord Presence
 
