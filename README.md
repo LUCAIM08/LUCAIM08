@@ -2,6 +2,8 @@
   
 ***
 
+### 🌊 On holiday from 16/07/2022 till 21/07/2022 🌊
+
 ### My Discord Presence
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/554389950083235840)](https://discord.com/users/554389950083235840)
