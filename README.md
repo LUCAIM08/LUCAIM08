@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Discord Bots.
   
 
-- 🌱 I’m currently coding in **Javascript, HTML, C++, CSS and im learning React.js**.
+- 🌱 I’m currently coding in **Javascript, HTML, C++, CSS and i'm learning React.js**.
   
 
 - ❓  I use Visual Studio Code with modified themes.
