@@ -1,4 +1,4 @@
-# <div align="center">Hi,I'm Luca</div>  
+# <div align="center">Hi, I'm Luca</div>  
   
 ***
 
@@ -6,19 +6,19 @@
 
 ### My Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/554389950083235840)](https://discord.com/users/554389950083235840)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1186990133069758526)](https://discord.com/users/1186990133069758526)
 
-- 🔭 I’m currently working on Discord Bots.
+- 🔭 Full Time student and Developer.
   
 
 - 🌱 I’m currently coding in **Javascript, HTML, C, C++, C#, CSS and i'm learning React.js**.
   
 
-- ❓  I use Visual Studio Code with modified themes.
+- ❓ I use Visual Studio Code with modified themes and Visual Studio.
   
 <br/>
   
-### 💻 Discord: LUCAIM08#2108
+### 💻 Discord: lucaim08_
 
 ### Languages and Tools:
 
