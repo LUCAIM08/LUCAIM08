@@ -19,7 +19,7 @@
 
 ### My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,arduino,discordjs,kali,mongodb,nodejs,opencv,py,react,robloxstudio,unreal,unity,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,arduino,discordjs,kali,mongodb,nodejs,opencv,py,react,robloxstudio,unreal,unity,visualstudio,vscode&perline=5)](https://skillicons.dev)
 
 # <div align="center">🔐 My stats 🔐</div>  
 
