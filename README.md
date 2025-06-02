@@ -15,7 +15,7 @@
 - 🗨️ Discord: `lucaim08_`
 - 🛠️ Tools I use: Visual Studio Code (custom themes), Visual Studio, Kali Linux, Git
 - 💬 Languages: Italian (Native), English (Fluent), Spanish (Conversational), Russian (Basic), German (Few words)
-- 🧠 Currently learning: **React, C++, Cybersecurity basics, AI fundamentals**
+- 🧠 Currently learning: **Flutter, Cybersecurity basics, AI fundamentals**
 
 ---
 
