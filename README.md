@@ -39,6 +39,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LUCAIM08&theme=light" />
+</div>
+
+---
+
 ## 📌 A bit more about me...
 
 - 🧒 I've been passionate about tech since I was a kid, it all started with my Dad's PC with Windows Vista (❤️).
