@@ -19,12 +19,6 @@
 
 ---
 
-## 🎮 My Discord Presence
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1186990133069758526)](https://discord.com/users/1186990133069758526)
-
----
-
 ## 🚀 My Skills & Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,py,react,nodejs,mongodb,arduino,discordjs,unreal,unity,robloxstudio,opencv,vscode,visualstudio,kali,linux&perline=8)](https://skillicons.dev)
