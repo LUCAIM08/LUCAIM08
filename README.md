@@ -46,7 +46,7 @@
 - 🧒 I've been passionate about tech since I was a kid, it all started with my Dad's PC with Windows Vista (❤️).
 - ⚙️ I love experimenting with AI, new frameworks, building Discord bots, and creating interactive web tools.
 - 🧩 I'm also interested in cybersecurity, PC Building, and game development.
-- 🎓 I'm in my fourth year of high school in Informatics and Telecommunications.
+- 🎓 I'm in my fourth year of high school in Informatics and Telecommunications at ISII G. Marconi.
 
 ---
 
