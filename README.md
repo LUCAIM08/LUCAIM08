@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Luca</div>
 
 <p align="center">
-  🧑‍💻 17-year-old student & self-taught developer passionate about coding, reverse engineering, and building cool stuff.
+  🧑‍💻 18-year-old student & self-taught developer passionate about coding, reverse engineering, and building cool stuff.
 </p>
 <p align="center">
   📍 Based in Italy • 🧠 Always learning • ☕ Fueled by curiosity (and Coffee or Red Bull)
